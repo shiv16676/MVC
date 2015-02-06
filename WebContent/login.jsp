@@ -9,8 +9,8 @@
 <body bgcolor="green">
 	
 	<form action="Login" method="post">
-		UserId:  <input type="text" name="userId"><br> 
-		Password<input type="password" name="password">
+		UserId:-  <input type="text" name="userId"><br> 
+		Password:-<input type="password" name="password">
 		<input type="submit"> 
 	</form>
 	
